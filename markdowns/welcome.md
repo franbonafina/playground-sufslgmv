@@ -12,6 +12,7 @@ En nuestro juego interactivo, tendrás que resolver un problema de programación
 
 @[Luke, how many money are there in these swallet?]({"stubs": ["src/main/java/com/yourself/Universe.java"], "command": "com.yourself.UniverseTest#test"})
 
+Corre el ejercicio para chequear los resultados, o lo que llamamos Testing!
 
 
 ### ATH Mobile Workflow

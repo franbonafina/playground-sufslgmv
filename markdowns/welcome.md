@@ -12,8 +12,6 @@ En nuestro juego interactivo, tendrás que resolver un problema de programación
 
 @[Luke, how many money are there in these swallet?]({"stubs": ["src/main/java/com/yourself/Universe.java"], "command": "com.yourself.UniverseTest#test"})
 
-Check out the markdown file [`welcome.md`](https://github.com/TechDotIO/java-template/blob/master/markdowns/welcome.md) to see how this exercise is injected into the template.
-
 
 
 ### ATH Mobile Workflow

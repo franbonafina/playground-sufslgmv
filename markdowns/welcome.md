@@ -17,7 +17,7 @@ Así que, ¡anímate! ¡Tu aventura en el mundo de la programación comienza aho
 
 En nuestro juego interactivo, tendrás que resolver un problema de programación simple. Pero no te preocupes, estaremos contigo cada paso del camino. Tu misión será crear una aplicación para contar dinero. ¿Listos? ¡Vamos a ello!
 
-::: Encuentra cuanto dinero hay en un wallet?
+::: Contar números
 
 @[Luke, how many money are there in these swallet?]({"stubs": ["src/main/java/com/yourself/Universe.java"], "command": "com.yourself.UniverseTest#test"})
 
@@ -32,6 +32,14 @@ En nuestro juego interactivo, tendrás que resolver un problema de programación
 :::
 
 ::: Cómo presentar mensajes ?
+
+@[Luke, how many money are there in these swallet?]({"stubs": ["src/main/java/com/yourself/Universe.java"], "command": "com.yourself.UniverseTest#test"})
+
+
+:::
+
+
+::: Encuentra cuanto dinero hay en un wallet?
 
 @[Luke, how many money are there in these swallet?]({"stubs": ["src/main/java/com/yourself/Universe.java"], "command": "com.yourself.UniverseTest#test"})
 

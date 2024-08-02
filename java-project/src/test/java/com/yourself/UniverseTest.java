@@ -10,6 +10,47 @@ import org.junit.Test;
 public class UniverseTest {
 
 	@Test
+	public void testSum() throws FileNotFoundException {
+		try {
+			Assert.assertEquals("Ejecutando la suma del dinero...", 6, SumWallet.sum(5,1));
+			success(true);
+
+		} catch (AssertionError ae) {
+			success(false);
+			msg("Oops! 🐞", ae.getMessage());
+			msg("Hint 💡", "A o B representan cualquier número, escribiste el simbolo de suma "+"? 🤔");
+		}
+	}
+
+
+	
+	@Test
+	public void testPrinter() throws FileNotFoundException {
+		try {
+			Assert.assertEquals("Running Conditional...", true, Printer.print(1));
+			success(true);
+
+		} catch (AssertionError ae) {
+			success(false);
+			msg("Oops! 🐞", ae.getMessage());
+			msg("Hint 💡", "Colocaste un mensaje? 🤔");
+		}
+	}
+
+	@Test
+	public void testConditional() throws FileNotFoundException {
+		try {
+			Assert.assertEquals("Running Conditional...", true, Conditional.conditional());
+			success(true);
+
+		} catch (AssertionError ae) {
+			success(false);
+			msg("Oops! 🐞", ae.getMessage());
+			msg("Hint 💡", "Seteaste correctamente el valor "TRUE"? 🤔");
+		}
+	}
+
+	@Test
 	public void test() throws FileNotFoundException {
 		try {
 			Assert.assertEquals("Running Universe.countAllStars(2, 3)...", 5, Universe.countAllStars(2, 3));

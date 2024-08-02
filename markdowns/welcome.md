@@ -10,6 +10,7 @@ Recuerda, la programación es como construir un castillo de arena con reglas:
 - comienza pequeño, 
 - añade detalles y, 
 - con tiempo y paciencia, verás cómo tu creación se vuelve más grande y más hermosa. 
+
 Así que, ¡anímate! ¡Tu aventura en el mundo de la programación comienza ahora!
 
 ## Manos a la obra!

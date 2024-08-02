@@ -2,9 +2,6 @@
 # Codificando con ATH Móvil: Tu Aventura en el Mundo de la Programación
 
 ¡Imagina si pudieras hablar con tu computadora y le dijeras exactamente qué quieres que haga! Eso es precisamente lo que hace la programación. 
-Es como escribir una receta para que tu computadora pueda seguir tus instrucciones paso a paso. 
-Y saber cómo hacerlo es muy importante hoy en día, porque nos ayuda a crear cosas increíbles, como juegos, aplicaciones y mucho más.
-
 
 ## Bienvenido! 
 
